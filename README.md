@@ -9,4 +9,4 @@ Try to open that notebook that you want using nbviewer online, you don't need to
 This is for the demo purpose, I have given the solution for one of my tasks :
 
 * Open "https://nbviewer.jupyter.org/"
-* Paste the link to your notebook, (e.g. "https://github.com/Vishwa-Patel-2405/The-Sparks-Foundation-Tasks/blob/main/Other%20Domain%20Tasks/Task-1_Optical_Character_Recognition.ipynb") there and then you get "https://nbviewer.jupyter.org/github/Vishwa-Patel-2405/The-Sparks-Foundation-Tasks/blob/main/Other%20Domain%20Tasks/Task-1_Optical_Character_Recognition.ipynb"
+* Paste the link to your notebook, (e.g. "https://github.com/kajalkourani09/GRIPS-SPARKS-FOUNDATION-INTERNSHIP-JULY-2022-BATCH/blob/main/Task%201/Task%201-Hours_scores.ipynb") there and then you get "https://nbviewer.org/github/kajalkourani09/GRIPS-SPARKS-FOUNDATION-INTERNSHIP-JULY-2022-BATCH/blob/main/Task%201/Task%201-Hours_scores.ipynb"
